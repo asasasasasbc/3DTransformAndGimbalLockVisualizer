@@ -1,6 +1,6 @@
 # 3DTransformAndGimbalLockVisualizer
 
-![Screenshot](title.png)
+![screenshot](title.jpg)
 
 This is a simple gimbal locak visualizer that can help you understand why gimbal lock exists in 3d software.
 
